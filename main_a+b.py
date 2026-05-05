@@ -6,3 +6,4 @@ if c=="+":
 
 sotak
 anhor
+vxc
