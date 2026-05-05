@@ -5,4 +5,4 @@ if c=="+":
     print(a+b)
 
 sotak
-sadas
+anhor
