@@ -4,5 +4,5 @@ c=str(input("give operation (+,-,*,/)"))
 if c=="+":
     print(a+b)
 
-sadasd
+sotak
 sadas
