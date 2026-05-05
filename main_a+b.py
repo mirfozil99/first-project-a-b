@@ -4,3 +4,14 @@ c=str(input("give operation (+,-,*,/)"))
 if c=="+":
     print(a+b)
 
+sadasd
+sadas
+asdasd
+
+awsdasdas
+asdasd
+
+asdsadas
+asdasda
+asdasd
+sad
